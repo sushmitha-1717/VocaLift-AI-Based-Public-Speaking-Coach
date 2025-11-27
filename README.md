@@ -1,4 +1,4 @@
-VocaLift – AI-Based Public Speaking Coach
+#VocaLift – AI-Based Public Speaking Coach
 
 VocaLift is an AI-powered public speaking analysis platform that provides real-time feedback on tone, clarity, filler words, and overall communication quality.
 Built using React.js, Node.js, and Whisper Speech-to-Text, the platform helps users improve their speaking skills with live scoring, analytics, and seamless UI experience.

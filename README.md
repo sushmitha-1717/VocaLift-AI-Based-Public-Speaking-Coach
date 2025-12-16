@@ -82,22 +82,22 @@ The system displays:
 
 VocaLift/
 ├── frontend/
-│   ├── *.html
-│   ├── css/
-│   ├── js/
-│   └── assets/
+│ ├── *.html
+│ ├── css/
+│ ├── js/
+│ └── assets/
 │
 ├── backend/
-│   ├── server.js
-│   ├── package.json
-│   ├── analyze_video.py
-│   ├── app.py
-│   ├── uploads/
-│   └── temp_audio/
+│ ├── server.js
+│ ├── package.json
+│ ├── analyze_video.py
+│ ├── app.py
+│ ├── uploads/
+│ └── temp_audio/
 │
 └── documentation/
-    ├── README.md
-    └── project-report.pdf
+├── README.md
+
 
 
 

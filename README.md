@@ -80,23 +80,26 @@ The system displays:
 
 # 📁 Project Structure
 
-vocalift/
-│
+VocaLift/
 ├── frontend/
-│ ├── index.html
-│ ├── login.html
-│ ├── signup.html
-│ ├── dashboard.html
-│ ├── css/
-│ ├── js/
-│ ├── assets/
-│ └── ...
+│   ├── *.html
+│   ├── css/
+│   ├── js/
+│   └── assets/
 │
-└── backend/
-├── server.js
-├── app.py
-├── analyze_video.py
-├── package.json
-├── uploads/
-└── ...
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── analyze_video.py
+│   ├── app.py
+│   ├── uploads/
+│   └── temp_audio/
+│
+└── documentation/
+    ├── README.md
+    └── project-report.pdf
+
+
+
+
 link: https://vocalift.netlify.app/

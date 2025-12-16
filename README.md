@@ -78,28 +78,6 @@ The system displays:
 
 ---
 
-# 📁 Project Structure
 
-VocaLift/
-├── frontend/
-│ ├── *.html
-│ ├── css/
-│ ├── js/
-│ └── assets/
-│
-├── backend/
-│ ├── server.js
-│ ├── package.json
-│ ├── analyze_video.py
-│ ├── app.py
-│ ├── uploads/
-│ └── temp_audio/
-│
-└── documentation/
-├── README.md
+🔗 Live Website: https://vocalift.netlify.app/
 
-
-
-
-
-link: https://vocalift.netlify.app/

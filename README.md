@@ -5,6 +5,8 @@ It works like a **personal AI speaking coach**, giving instant feedback on recor
 ---
 
 # 🚀 Features
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/957615a6-3322-4374-9e5d-13f1ceed35bb" />
+
 
 ### 🔐 User Authentication (Firebase)
 - Email/Password Signup & Login  
@@ -26,6 +28,7 @@ Users can:
 - Record speech directly from the browser  
 - Upload audio/video files  
 - View previous attempts  
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/ab3e25ec-b0d5-454f-9bd2-f8060a089b19" />
 
 ### 🤖 AI-Based Speech Analysis
 The backend evaluates:
